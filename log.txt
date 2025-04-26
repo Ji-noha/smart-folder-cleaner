@@ -1,0 +1,89 @@
+[2025-04-26 16:45:59] code2.png moved to Images/
+[2025-04-26 16:45:59] deepseek_python_20250418_9d858e.py moved to Scripts/
+[2025-04-26 16:45:59] devops roadmap1.png moved to Images/
+[2025-04-26 16:45:59] EFMR-M103-Rabat-2025.pdf moved to Documents/
+[2025-04-26 16:48:44] As a DevOps engineer, mastering Lin.txt moved to Documents/
+[2025-04-26 16:48:44] chat.txt moved to Documents/
+[2025-04-26 16:48:44] Cover Letter_25.pdf moved to Documents/
+[2025-04-26 16:48:44] cv exemple.png moved to Images/
+[2025-04-26 16:48:44] cv_Avril.pdf moved to Documents/
+[2025-04-26 16:48:44] deepseek_python_20250418_00cd1e.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_1c7c59.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_a2a496.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_bfc5d7.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_d9303e.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_ec84d1.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_eda4cb.py moved to Scripts/
+[2025-04-26 16:48:44] deepseek_python_20250418_fe9df2.py moved to Scripts/
+[2025-04-26 16:48:44] devops roadmap par deepseek.txt moved to Documents/
+[2025-04-26 16:48:44] devops roadmap2.png moved to Images/
+[2025-04-26 16:48:44] devops roadmap3.png moved to Images/
+[2025-04-26 16:48:44] devops_roadmap.png moved to Images/
+[2025-04-26 16:48:44] exercices_first_ones.py moved to Scripts/
+[2025-04-26 16:48:44] gtr (4) new descriptif.pdf moved to Documents/
+[2025-04-26 16:48:44] gtr3.pdf moved to Documents/
+[2025-04-26 16:48:44] import os.txt moved to Documents/
+[2025-04-26 16:48:44] lettre de motivation ztech.docx moved to Documents/
+[2025-04-26 16:48:44] lettre_de_motivation.pdf moved to Documents/
+[2025-04-26 16:48:44] LinkedIn.txt moved to Documents/
+[2025-04-26 16:48:44] MLOps Roadmap.html moved to Others/
+[2025-04-26 16:48:44] Modulation AM.pdf moved to Documents/
+[2025-04-26 16:48:44] Noha Najmi.png moved to Images/
+[2025-04-26 16:48:44] planningAnnuel.pdf moved to Documents/
+[2025-04-26 16:48:44] project python scripting ;.txt moved to Documents/
+[2025-04-26 16:48:44] Recording 2025-04-02 qcm interview.mp4 moved to Videos/
+[2025-04-26 16:48:44] Untitled.txt moved to Documents/
+[2025-04-26 16:48:44] write_stress.png moved to Images/
+[2025-04-26 16:48:44] Untitled.txt is removed (empty)
+[2025-04-26 16:48:44] sodar is removed (empty)
+[2025-04-26 17:41:33] Annales des examens corrigés .pdf moved to Documents/
+[2025-04-26 17:41:33] Blue and White Corporate Clean Digital Marketing LinkedIn Article Cover Image (2).png moved to Images/
+[2025-04-26 17:41:33] CamScanner 05-07-2023 11.33.pdf moved to Documents/
+[2025-04-26 17:41:33] Chapitre5_Microp_SEMLALI_2023_removed.pdf moved to Documents/
+[2025-04-26 17:41:33] Chapitre6_ 8086_SEMLALI_2023.pdf moved to Documents/
+[2025-04-26 17:41:33] Chapitre7_ 8086_ENSA_2023.pdf moved to Documents/
+[2025-04-26 17:41:33] Chapitre8_ 8086_SEMLALI_2023.pdf moved to Documents/
+[2025-04-26 17:41:33] communication analogique cours +TD.pdf moved to Documents/
+[2025-04-26 17:41:33] controle1_corrige.pdf moved to Documents/
+[2025-04-26 17:41:33] Corrigé - Série n° 3 de T.D. 21-22.pdf moved to Documents/
+[2025-04-26 17:41:33] Corrigé- Série d_exercice n°4 2021-2022.pdf moved to Documents/
+[2025-04-26 17:41:33] Corrigé-Série n° 3 de T.D. de probabilités.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre1.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre2.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre3.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre4.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre5.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours Linges de transmission-chapitre6.pdf moved to Documents/
+[2025-04-26 17:41:33] cours probabilite.pdf moved to Documents/
+[2025-04-26 17:41:33] cours probabiliteNN.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours-antenne-version 1.pdf moved to Documents/
+[2025-04-26 17:41:33] Cours_Réseaux.pdf moved to Documents/
+[2025-04-26 17:41:33] DL-2023.pdf moved to Documents/
+[2025-04-26 17:41:33] DS 1-2023-Corrigé.pdf moved to Documents/
+[2025-04-26 17:41:33] Ds 2 Communication Analogique.pdf moved to Documents/
+[2025-04-26 17:41:33] DS. GTR.pdf moved to Documents/
+[2025-04-26 17:41:33] DS1 communication analogique.pdf moved to Documents/
+[2025-04-26 17:41:33] DS2 Réseaux Informatique (Projet).pdf moved to Documents/
+[2025-04-26 17:41:33] english with badr Semester2 1st year.pdf moved to Documents/
+[2025-04-26 17:41:33] Examens corrigés Proba Mr Lakhel 2005-2007.pdf moved to Documents/
+[2025-04-26 17:41:33] Examens S2.pdf moved to Documents/
+[2025-04-26 17:41:33] Fes est la maison du savoir , nul n.txt moved to Documents/
+[2025-04-26 17:41:33] Groupes tp.pdf moved to Documents/
+[2025-04-26 17:41:33] Modulation FM.pdf moved to Documents/
+[2025-04-26 17:41:33] Partie 2_AM.pdf moved to Documents/
+[2025-04-26 17:41:33] Partie FM_PM.pdf moved to Documents/
+[2025-04-26 17:41:33] Partie_Intro.pdf moved to Documents/
+[2025-04-26 17:41:33] Passé andalou et fermeture.html moved to Others/
+[2025-04-26 17:41:33] probabilité td (1).pdf moved to Documents/
+[2025-04-26 17:41:33] resume de ch6 fes du livre histoire.txt moved to Documents/
+[2025-04-26 17:41:33] Resume.pdf moved to Documents/
+[2025-04-26 17:41:33] Serie 1 2022-2023-Corrections.pdf moved to Documents/
+[2025-04-26 17:41:33] Série n° 2 de T.D. de probabilités 2022-2023.pdf moved to Documents/
+[2025-04-26 17:41:33] Série n° 3 de T.D. de probabilités.pdf moved to Documents/
+[2025-04-26 17:41:33] TCP IP ea851b3ca24e421991519471abae5aa4.pdf moved to Documents/
+[2025-04-26 17:41:33] td 1-2 communication analogique.pdf moved to Documents/
+[2025-04-26 17:41:33] td 2 communication.pdf moved to Documents/
+[2025-04-26 17:41:33] TD 3 communication analogique.pdf moved to Documents/
+[2025-04-26 17:41:33] td 3 ennonce communication.pdf moved to Documents/
+[2025-04-26 17:41:33] TD antennes.pdf moved to Documents/
+[2025-04-26 17:41:33] td1-2-3 hyperfréquences.pdf moved to Documents/
