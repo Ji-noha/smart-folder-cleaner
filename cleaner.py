@@ -12,7 +12,7 @@ def write_log(message, log_file="log.txt"):
 
 #2. Delete empty files
 def delete_empty_file(folder_path):
-    for root, _, files in os.walk(folder_path):
+    for root, _, files in os.walk(folder_path): 
         for file in files:
             file_path = os.path.join(root, file)
             if os.path.getsize(file_path) == 0:
@@ -24,7 +24,7 @@ def delete_empty_file(folder_path):
 #3. Check if two files are identical
 def are_files_identical(file1, file2):
     with open(file1, 'r', encoding='utf-8', errors='ignore') as f1, open(file2, 'r', encoding='utf-8', errors='ignore') as f2:
-        for l1, l2 in zip_longest(f1, f2):
+        for l1, l2 in zip_longest(f1, f2): 
             if l1 != l2:
                 return False
         return True
